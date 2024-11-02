@@ -1,6 +1,6 @@
 # Spotify Review Brief Generator
 
-This project generates a detailed brief from a dataset of Spotify reviews. It leverages natural language processing techniques to cluster reviews, select representative ones, and generate concise summaries.
+This is a proof of concept for an automated brief generation system. The project generates a detailed brief from a dataset of Spotify reviews. It leverages natural language processing techniques to cluster reviews, select representative ones. It then uses deep learning techniques to generate concise summaries. Watch the presentation for a more detailed understanding of the project as a whole.
 
 ## Breif Generation section
 
